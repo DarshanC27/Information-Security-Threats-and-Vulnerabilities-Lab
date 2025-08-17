@@ -20,8 +20,8 @@ To understand how attackers use **Remote Access Trojans (RATs)** to gain unautho
 - Logged into Web Server as:
 
 
-Username: Administrator
-Password: admin@123
+Username: **********
+Password: *********
 
 
 ### Step 2: Deploy Trojan on Victim
@@ -32,7 +32,7 @@ Password: admin@123
 ### Step 3: Connect as Attacker
 - On Admin Machine-1, launched `Client210.exe`.
 - Entered:
-- IP Address: `10.10.1.16` (victim’s IP)
+- IP Address: `xx.xx.xx.xx` (victim’s IP)
 - Port: default (9871)
 - Clicked **Connect** → successful connection established.
 
@@ -49,10 +49,10 @@ Password: admin@123
 *(Add screenshots in `/Screenshots/` folder and reference them here)*
 
 Example:
-![Trojan Client Interface](../Screenshots/trojan_client.png❤️❤️❤️❤️❤️❤️)  
+![Trojan Client Interface](../Screenshots/trojan_client.png)  
 *Theef RAT client connected to the victim machine.*
 
-![Trojan Keylogger](../Screenshots/trojan_keylogger.png❤️❤️❤️❤️❤️)  
+![Trojan Keylogger](../Screenshots/trojan_keylogger.png)  
 *Keystrokes captured from victim machine.*
 
 ---
