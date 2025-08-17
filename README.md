@@ -73,7 +73,7 @@ Information-Security-Threats-and-Vulnerabilities-Lab/
 Cybersecurity Enthusiast | SOC Analyst Aspirant | Researching Threats & Vulnerabilities
 
 ## 🤝 Professional Network
-Connect with me on [darshanchabbi27](https://www.linkedin.com/in/darshanchabbi27) for cybersecurity discussions and collaboration opportunities.
+Connect with me on Linkedin [darshanchabbi27](https://www.linkedin.com/in/darshanchabbi27) for cybersecurity discussions and collaboration opportunities.
 
 ## 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
