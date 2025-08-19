@@ -63,10 +63,10 @@ Password: admin@123
 *(Add screenshots in `/Screenshots/` folder and reference them here)*
 
 Example:
-![Virus Maker Interface](../Screenshots/virus_maker.png❤️❤️❤️❤️❤️)  
+![Virus Maker Interface](./Screenshots/Virus%20Maker%20Interface.png)  
 *JPS Virus Maker tool used to generate a custom virus.*
 
-![Virus Execution](../Screenshots/virus_execution.png❤️❤️❤️❤️❤️)  
+![Virus Execution](./Screenshots/Virus%20Execution.png)  
 *Desktop disruption after executing the virus payload.*
 
 ---
