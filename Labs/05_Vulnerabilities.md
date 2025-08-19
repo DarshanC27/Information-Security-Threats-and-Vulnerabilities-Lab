@@ -59,10 +59,8 @@ Password: Pa$$w0rd
 *(Add screenshots in `/Screenshots/` folder and reference them here)*  
 
 Example:  
-![Exploit-DB Homepage](../Screenshots/exploitdb_home.png❤️❤️❤️❤️❤️)  
+![Exploit-DB Homepage](./Screenshots/Exploit-DB%20Homepage.png)  
 *Exploit Database homepage displaying latest vulnerabilities.*  
-
-![Exploit Search Results](../Screenshots/exploitdb_search.png❤️❤️❤️❤️❤️)  
 *Search results for remote vulnerabilities on Windows platform.*  
 
 ---
