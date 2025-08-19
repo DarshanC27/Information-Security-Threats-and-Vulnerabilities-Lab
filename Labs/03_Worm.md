@@ -61,10 +61,10 @@ Password: admin@123
 *(Add screenshots in `/Screenshots/` folder and reference them here)*
 
 Example:
-![Worm Maker Interface](../Screenshots/worm_maker.png)  
+![Worm Maker Interface](./Screenshots/Worm%20Maker%20Interface.png) 
 *Internet Worm Maker Thing – configuration panel.*
 
-![Worm Execution](../Screenshots/worm_execution.png)  
+![Worm Execution](./Screenshots/Worm%20Execution.png)   
 *System disruption after worm payload triggered.*
 
 ---
