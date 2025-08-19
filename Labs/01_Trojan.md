@@ -49,10 +49,10 @@ Password: *********
 *(Add screenshots in `/Screenshots/` folder and reference them here)*
 
 Example:
-![Trojan Client Interface](../Screenshots/trojan_client.png)  
+![Trojan Client Interface](Screenshots/Trojan Client Interface.png) 
 *Theef RAT client connected to the victim machine.*
 
-![Trojan Keylogger](../Screenshots/trojan_keylogger.png)  
+![Trojan Keylogger](Screenshots/Trojan Keylogger.png) 
 *Keystrokes captured from victim machine.*
 
 ---
