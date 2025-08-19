@@ -61,10 +61,10 @@ To understand how **spyware** can be used to monitor user activity in stealth mo
 *(Add screenshots in `/Screenshots/` folder and reference them here)*  
 
 Example:  
-![SpyAgent Dashboard](../Screenshots/spyagent_dashboard.png)  
+![SpyAgent Dashboard](./Screenshots/SpyAgent%20Dashboard.png)  
 *SpyAgent interface after retrieving captured data.*  
 
-![Keylogger Logs](../Screenshots/spyware_logs.png)  
+![Keylogger Logs](./Screenshots/Keylogger%20Logs.png)  
 *Keylogger showing victim keystrokes.*  
 
 ---
