@@ -46,11 +46,9 @@ Information-Security-Threats-and-Vulnerabilities-Lab/
 
 
 📚 Learning Outcomes
-- ✅ Differentiate between **threats and vulnerabilities**  
 - ✅ Understand **malware behavior** (Trojan, Virus, Worm, Spyware)  
 - ✅ Document step-by-step lab execution with **screenshots & analysis**  
-- ✅ Perform **vulnerability research** using Exploit-DB  
-- ✅ Map attacks to **defensive controls** (Firewall, IDS/IPS, EDR, Patch Management)  
+- ✅ Perform **vulnerability research** using Exploit-DB    
 
 ---
 
