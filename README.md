@@ -56,7 +56,7 @@ Information-Security-Threats-and-Vulnerabilities-Lab/
 
 ## 🚀 How to Use This Repository
 - Navigate to the `Labs/` folder for detailed walkthroughs.  
-- Explore `Screenshots/` and `Diagrams/` for visual explanations.  
+- Explore `Screenshots/` for visual explanations.  
 - Use `References/` for additional readings and vulnerability research.  
 
 ---
@@ -64,7 +64,7 @@ Information-Security-Threats-and-Vulnerabilities-Lab/
 ## 📌 References
 - [Exploit-DB](https://www.exploit-db.com/)  
 - [MITRE ATT&CK](https://attack.mitre.org/)  
-- EC-Council C|CT Official Curriculum  
+- EC-Council C|CT Official Curriculum    
 
 ---
 
