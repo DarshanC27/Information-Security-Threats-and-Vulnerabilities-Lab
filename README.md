@@ -53,9 +53,9 @@ Information-Security-Threats-and-Vulnerabilities-Lab/
 ---
 
 ## 🚀 How to Use This Repository
-- Navigate to the `Labs/` folder for detailed walkthroughs.  
-- Explore `Screenshots/` for visual explanations.  
-- Use `References/` for additional readings and vulnerability research.  
+- Navigate to the [Labs](#labs) folder for detailed walkthroughs.  
+- Explore [Screenshots](#screenshots) for visual explanations.  
+- Use [References](#references) for additional readings and vulnerability research.  
 
 ---
 
